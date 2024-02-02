@@ -12,19 +12,19 @@ import { FaJava } from "react-icons/fa";
 import { BsGithub } from "react-icons/bs";
 import { AiFillHtml5 } from "react-icons/ai";
 import {SiKubernetes} from "react-icons/si";
-import {SiElasticsearch} from "react-icons/si";
-import {SiLogstash} from "react-icons/si";
-import {SiKibana} from "react-icons/si";
-import {SiApachekafka} from "react-icons/si";
-import {SiApachespark} from "react-icons/si";
-import {SiTableau} from "react-icons/si";
+// import {SiElasticsearch} from "react-icons/si";
+// import {SiLogstash} from "react-icons/si";
+// import {SiKibana} from "react-icons/si";
+// import {SiApachekafka} from "react-icons/si";
+// import {SiApachespark} from "react-icons/si";
+// import {SiTableau} from "react-icons/si";
 import {SiMysql} from "react-icons/si";
 import {SiExpress} from "react-icons/si";
 import {SiFlask} from "react-icons/si";
 import {SiCss3} from "react-icons/si";
 import {SiSpringboot} from "react-icons/si"
 import {SiDocker} from "react-icons/si"
-import {SiAmazonaws} from "react-icons/si"
+// import {SiAmazonaws} from "react-icons/si"
 
 
 

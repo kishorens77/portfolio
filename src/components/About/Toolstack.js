@@ -7,9 +7,9 @@ import {
   SiGooglecolab,
   SiIntellijidea
 } from "react-icons/si";
-import {
-  DiFirebase
-} from "react-icons/di";
+// import {
+//   DiFirebase
+// } from "react-icons/di";
 
 function Toolstack() {
   return (
