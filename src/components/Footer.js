@@ -12,7 +12,7 @@ function Footer() {
   // let year = date.getFullYear();
   return (
     <Container fluid className="footer">
-      <Row>
+      <Row> 
         <Col md="4" className="footer-copywright">
           <h3>Built with React.js</h3>
         </Col>
